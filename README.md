@@ -74,26 +74,9 @@
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rokifran&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokifran&layout=compact&theme=radical&hide_border=true" alt="Top langs" height="165">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rokifran&theme=radical&hide_border=true" alt="Streak">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rokifran&theme=radical&no-frame=true&row=1&column=6" alt="Trophy">
-
-</div>
-
-<!--
-  BONUS (opsional): animasi ular makan kontribusi.
-  Butuh 1 langkah ekstra — bilang saja nanti, saya bantu pasangin GitHub Action-nya.
--->
-
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=rokifran&color=7CE38B&style=flat-square&label=visitors)
 
 </div>
+
