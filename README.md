@@ -63,13 +63,18 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=godot,csharp,git,linux,html,css,js&theme=dark" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=godot,csharp,nodejs,vue,nuxt,astro,cloudflare,git,linux,html,css,js&theme=dark" alt="Tools">
 </a>
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon%20Postgres-00E599?style=flat-square&logo=neon&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Pixel Art](https://img.shields.io/badge/Pixel%20Art-32x32%20tilesets-7CE38B?style=flat-square)
 ![Piskel](https://img.shields.io/badge/Piskel-drawn%20by%20hand-F4B400?style=flat-square)
-
 </div>
 
 ---
